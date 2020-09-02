@@ -1,0 +1,7 @@
+ dynamic programming language that can add interactivity to a website. It was invented by Brendan Eich (co-founder of the Mozilla project), the Mozilla Foundation, and the Mozilla Corporation.
+ flexible language,with functionalities like:
+ i} Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles
+ ii}Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
+ iii}Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
+ 
+ its basically just like other scripting langages like c with variables, tokens, funtions etc.
